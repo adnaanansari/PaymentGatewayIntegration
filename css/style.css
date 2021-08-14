@@ -20,7 +20,7 @@ body {
   font-weight: 300;
   overflow-x: hidden;
 }
-body.Mahdood-offcanvas {
+body.adnan-offcanvas {
 overflow: hidden;
 }
 
@@ -68,7 +68,7 @@ figure {
   background: #ff5050;
 }
 
-#Mahdood-header {
+#adnan-header {
 position: relative;
   margin-bottom: 0;
   z-index: 9999999;
@@ -88,23 +88,23 @@ position: relative;
   padding: 10px 0;
   background: #ff5050;
 }
-.header-top .Mahdood-link a {
+.header-top .adnan-link a {
 margin-left: 10px;
   font-size: 13px;
   color: rgba(255, 255, 255, 0.7);
 }
-.header-top .Mahdood-link a:first-child {
+.header-top .adnan-link a:first-child {
 margin-left: 0;
 }
-.header-top .Mahdood-link a:hover {
+.header-top .adnan-link a:hover {
 color: white !important;
 }
 @media screen and (max-width: 768px) {
-  .header-top .Mahdood-link {
+  .header-top .adnan-link {
   text-align: center;
   }
 }
-.header-top .Mahdood-social a {
+.header-top .adnan-social a {
 color: rgba(255, 255, 255, 0.7);
   font-size: 14px;
   margin-right: 15px;
@@ -113,14 +113,14 @@ color: rgba(255, 255, 255, 0.7);
   -o-transition: 0.5s, ease-in-out;
   transition: 0.5s, ease-in-out;
 }
-.header-top .Mahdood-social a:last-child {
+.header-top .adnan-social a:last-child {
 margin-right: 0;
 }
-.header-top .Mahdood-social a:hover, .header-top .fh5co-social a:focus, .header-top .fh5co-social a:active {
+.header-top .adnan-social a:hover, .header-top .fh5co-social a:focus, .header-top .fh5co-social a:active {
 text-decoration: none;
   color: white !important;
 }
-.header-top .Mahdood-social a:hover i, .header-top .fh5co-social a:focus i, .header-top .fh5co-social a:active i {
+.header-top .adnan-social a:hover i, .header-top .fh5co-social a:focus i, .header-top .fh5co-social a:active i {
 -webkit-transform: scale(1.2);
   -moz-transform: scale(1.2);
   -ms-transform: scale(1.2);
@@ -128,27 +128,27 @@ text-decoration: none;
   transform: scale(1.2);
 }
 @media screen and (max-width: 768px) {
-  .header-top .Mahdood-social {
+  .header-top .adnan-social {
   text-align: center !important;
   }
 }
 
-.Mahdood-cover,
+.adnan-cover,
 .fh5co-hero {
   position: relative;
   height: 800px;
 }
 @media screen and (max-width: 768px) {
-  .Mahdood-cover,
+  .adnan-cover,
   .fh5co-hero {
     height: 700px;
   }
 }
-.Mahdood-cover.fh5co-hero-2,
+.adnan-cover.fh5co-hero-2,
 .fh5co-hero.fh5co-hero-2 {
   height: 600px;
 }
-.Mahdood-cover.fh5co-hero-2 .fh5co-overlay,
+.adnan-cover.fh5co-hero-2 .fh5co-overlay,
 .fh5co-hero.fh5co-hero-2 .fh5co-overlay {
   position: absolute !important;
   width: 100%;
@@ -160,7 +160,7 @@ text-decoration: none;
   background: rgba(0, 0, 0, 0.2);
 }
 
-.Mahdood-overlay {
+.adnan-overlay {
 position: absolute !important;
   width: 100%;
   top: 0;
@@ -172,30 +172,30 @@ position: absolute !important;
   background: rgba(0, 0, 0, 0.2);
 }
 
-.Mahdood-cover {
+.adnan-cover {
 background-size: cover;
   position: relative;
 }
 @media screen and (max-width: 768px) {
-  .Mahdood-cover {
+  .adnan-cover {
   heifght: inherit;
     padding: 3em 0;
   }
 }
-.Mahdood-cover .btn {
+.adnan-cover .btn {
 padding: 1em 2em;
   opacity: .9;
 }
-.Mahdood-cover.fh5co-cover_2 {
+.adnan-cover.fh5co-cover_2 {
 height: 600px;
 }
 @media screen and (max-width: 768px) {
-  .fh5co-cover.Mahdood-cover_2 {
+  .fh5co-cover.adnan-cover_2 {
   heifght: inherit;
     padding: 3em 0;
   }
 }
-.Mahdood-cover .desc {
+.adnan-cover .desc {
 top: 50%;
   position: absolute;
   width: 100%;
@@ -204,43 +204,43 @@ top: 50%;
   color: #fff;
 }
 @media screen and (max-width: 768px) {
-  .Mahdood-cover .desc {
+  .adnan-cover .desc {
   padding-left: 15px;
     padding-right: 15px;
   }
 }
-.Mahdood-cover .desc h2 {
+.adnan-cover .desc h2 {
 color: #fff;
   text-transform: uppercase;
   font-size: 60px;
   margin-bottom: 10px;
   font-weight: 300 !important;
 }
-.Mahdood-cover .desc h2 strong {
+.adnan-cover .desc h2 strong {
 font-weight: 700;
 }
 @media screen and (max-width: 768px) {
-  .Mahdood-cover .desc h2 {
+  .adnan-cover .desc h2 {
   font-size: 40px;
   }
 }
-.Mahdood-cover .desc span {
+.adnan-cover .desc span {
 display: block;
   margin-bottom: 30px;
   font-size: 28px;
   letter-spacing: 1px;
 }
-.Mahdood-cover .desc span a {
+.adnan-cover .desc span a {
 color: #fff;
 }
-.fh5co-cover .desc span a:hover, .Mahdood-cover .desc span a:focus {
+.fh5co-cover .desc span a:hover, .adnan-cover .desc span a:focus {
 color: #fff !important;
 }
-.fh5co-cover .desc span a:hover.btn, .Mahdood-cover .desc span a:focus.btn {
+.fh5co-cover .desc span a:hover.btn, .adnan-cover .desc span a:focus.btn {
 border: 2px solid #fff !important;
   background: transparent !important;
 }
-.Mahdood-cover .desc span a.fh5co-site-name {
+.adnan-cover .desc span a.fh5co-site-name {
 padding-bottom: 2px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.7);
 }
@@ -350,7 +350,7 @@ padding-bottom: 2px;
   border-left-color: #ccc;
 }
 
-#Mahdood-header-section {
+#adnan-header-section {
 padding: 0;
   position: relative;
   left: 0;
@@ -365,7 +365,7 @@ padding: 0;
   width: 100%;
 }
 
-#Mahdood-logo {
+#adnan-logo {
 position: relative;
   z-index: 2;
   font-size: 22px;
@@ -374,38 +374,38 @@ position: relative;
   font-weight: 700;
   float: left;
 }
-#Mahdood-logo span {
+#adnan-logo span {
 font-weight: 700;
 }
 @media screen and (max-width: 768px) {
-  #Mahdood-logo {
+  #adnan-logo {
   width: 100%;
     float: none;
     text-align: center;
   }
 }
-#Mahdood-logo a {
+#adnan-logo a {
 color: #ff5050;
 }
-#Mahdood-logo a:hover, #fh5co-logo a:focus {
+#adnan-logo a:hover, #fh5co-logo a:focus {
 color: #ff5050 !important;
 }
 
-#Mahdood-menu-wrap {
+#adnan-menu-wrap {
 position: relative;
   z-index: 2;
   display: block;
   float: right;
   margin-top: 15px;
 }
-#Mahdood-menu-wrap .sf-menu a {
+#adnan-menu-wrap .sf-menu a {
 padding: 1em .75em;
 }
 
-#Mahdood-primary-menu > li > ul li.active > a {
+#adnan-primary-menu > li > ul li.active > a {
 color: #ff5050 !important;
 }
-#Mahdood-primary-menu > li > .sf-with-ul:after {
+#adnan-primary-menu > li > .sf-with-ul:after {
 border: none !important;
   font-family: 'icomoon';
   speak: none;
@@ -426,10 +426,10 @@ border: none !important;
   content: "\e922";
   color: rgba(0, 0, 0, 0.5);
 }
-#Mahdood-primary-menu > li > ul li {
+#adnan-primary-menu > li > ul li {
 position: relative;
 }
-#Mahdood-primary-menu > li > ul li > .sf-with-ul:after {
+#adnan-primary-menu > li > ul li > .sf-with-ul:after {
 border: none !important;
   font-family: 'icomoon';
   speak: none;
@@ -450,7 +450,7 @@ border: none !important;
   color: rgba(0, 0, 0, 0.5);
 }
 
-#Mahdood-primary-menu .fh5co-sub-menu {
+#adnan-primary-menu .fh5co-sub-menu {
 padding: 10px 7px 10px;
   background: #fff;
   left: 0;
@@ -464,11 +464,11 @@ padding: 10px 7px 10px;
   -o-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
 }
-#Mahdood-primary-menu .fh5co-sub-menu > li > .fh5co-sub-menu {
+#adnan-primary-menu .fh5co-sub-menu > li > .fh5co-sub-menu {
 left: 100%;
 }
 
-#Mahdood-primary-menu .fh5co-sub-menu:before {
+#adnan-primary-menu .fh5co-sub-menu:before {
 position: absolute;
   top: -9px;
   left: 20px;
@@ -477,7 +477,7 @@ position: absolute;
   content: '';
 }
 
-#Mahdood-primary-menu .fh5co-sub-menu:after {
+#adnan-primary-menu .fh5co-sub-menu:after {
 position: absolute;
   top: -8px;
   left: 21px;
@@ -490,12 +490,12 @@ position: absolute;
   content: '';
 }
 
-#Mahdood-primary-menu .fh5co-sub-menu .fh5co-sub-menu:before {
+#adnan-primary-menu .fh5co-sub-menu .fh5co-sub-menu:before {
 top: 6px;
   left: 100%;
 }
 
-#Mahdood-primary-menu .fh5co-sub-menu .fh5co-sub-menu:after {
+#adnan-primary-menu .fh5co-sub-menu .fh5co-sub-menu:after {
 top: 7px;
   right: 100%;
   border: none !important;
@@ -513,7 +513,7 @@ top: 7px;
   display: none;
 }
 
-#fh5co-primary-menu .Mahdood-sub-menu a {
+#fh5co-primary-menu .adnan-sub-menu a {
 letter-spacing: 0;
   padding: 0 15px;
   font-size: 18px;
@@ -522,30 +522,30 @@ letter-spacing: 0;
   text-transform: none;
   background: none;
 }
-#Mahdood-primary-menu .Mahdood-sub-menu a:hover {
+#adnan-primary-menu .adnan-sub-menu a:hover {
 color: #ff5050 !important;
 }
 
-#Mahdood-work-section,
+#adnan-work-section,
 #fh5co-services-section,
-#Mahdood-content-section,
+#adnan-content-section,
 #fh5co-work-section_2,
 #fh5co-blog-section,
 #fh5co-features {
   padding: 7em 0;
 }
 @media screen and (max-width: 768px) {
-  #Mahdood-work-section,
-  #Mahdood-services-section,
-  #Mahdood-content-section,
-  #Mahdood-work-section_2,
-  #Mahdood-blog-section,
-  #Mahdood-features {
+  #adnan-work-section,
+  #adnan-services-section,
+  #adnan-content-section,
+  #adnan-work-section_2,
+  #adnan-blog-section,
+  #adnan-features {
     padding: 4em 0;
   }
 }
 
-.Mahdood-section-gray {
+.adnan-section-gray {
   background: rgba(0, 0, 0, 0.04);
 }
 
@@ -682,17 +682,17 @@ color: #ff5050 !important;
   line-height: 1.8;
 }
 
-#Mahdood-portfolio {
+#adnan-portfolio {
   padding: 7em 0;
   min-height: 500px;
 }
 @media screen and (max-width: 768px) {
-  #Mahdood-portfolio {
+  #adnan-portfolio {
     padding: 3em 0;
   }
 }
 
-#Mahdood-portfolio-list {
+#adnan-portfolio-list {
   flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
   -moz-flex-wrap: wrap;
@@ -707,7 +707,7 @@ color: #ff5050 !important;
   margin: 0;
   width: 100%;
 }
-#Mahdood-portfolio-list li {
+#adnan-portfolio-list li {
   display: block;
   padding: 0;
   margin: 0 0 10px 1%;
@@ -721,18 +721,18 @@ color: #ff5050 !important;
   position: relative;
 }
 @media screen and (max-width: 480px) {
-  #Mahdood-portfolio-list li {
+  #adnan-portfolio-list li {
     margin-left: 0;
   }
 }
-#Mahdood-portfolio-list li a {
+#adnan-portfolio-list li a {
   min-height: 400px;
   padding: 2em;
   position: relative;
   width: 100%;
   display: block;
 }
-#Mahdood-portfolio-list li a:before {
+#adnan-portfolio-list li a:before {
   position: absolute;
   top: 0;
   left: 0;
@@ -745,10 +745,10 @@ color: #ff5050 !important;
   transition: 0.5s;
   background: transparent;
 }
-#Mahdood-portfolio-list li a:hover:before {
+#adnan-portfolio-list li a:hover:before {
   background: rgba(0, 0, 0, 0.5);
 }
-#Mahdood-portfolio-list li a .case-studies-summary {
+#adnan-portfolio-list li a .case-studies-summary {
   width: auto;
   bottom: 2em;
   left: 2em;
@@ -757,136 +757,136 @@ color: #ff5050 !important;
   z-index: 100;
 }
 @media screen and (max-width: 768px) {
-  #Mahdood-portfolio-list li a .case-studies-summary {
+  #adnan-portfolio-list li a .case-studies-summary {
     bottom: 1em;
     left: 1em;
     right: 1em;
   }
 }
-#Mahdood-portfolio-list li a .case-studies-summary span {
+#adnan-portfolio-list li a .case-studies-summary span {
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 13px;
   color: rgba(255, 255, 255, 0.7);
 }
-#Mahdood-portfolio-list li a .case-studies-summary h2 {
+#adnan-portfolio-list li a .case-studies-summary h2 {
   color: #fff;
   margin-bottom: 0;
 }
 @media screen and (max-width: 768px) {
-  #Mahdood-portfolio-list li a .case-studies-summary h2 {
+  #adnan-portfolio-list li a .case-studies-summary h2 {
     font-size: 20px;
   }
 }
-#Mahdood-portfolio-list li.two-third {
+#adnan-portfolio-list li.two-third {
   width: 65.6%;
 }
 @media screen and (max-width: 768px) {
-  #Mahdood-portfolio-list li.two-third {
+  #adnan-portfolio-list li.two-third {
     width: 49%;
   }
 }
 @media screen and (max-width: 480px) {
-  #Mahdood-portfolio-list li.two-third {
+  #adnan-portfolio-list li.two-third {
     width: 100%;
   }
 }
-#Mahdood-portfolio-list li.one-third {
+#adnan-portfolio-list li.one-third {
   width: 32.3%;
 }
 @media screen and (max-width: 768px) {
-  #Mahdood-portfolio-list li.one-third {
+  #adnan-portfolio-list li.one-third {
     width: 49%;
   }
 }
 @media screen and (max-width: 480px) {
-  #Mahdood-portfolio-list li.one-third {
+  #adnan-portfolio-list li.one-third {
     width: 100%;
   }
 }
-#Mahdood-portfolio-list li.one-half {
+#adnan-portfolio-list li.one-half {
   width: 49%;
 }
 @media screen and (max-width: 480px) {
-  #Mahdood-portfolio-list li.one-half {
+  #adnan-portfolio-list li.one-half {
     width: 100%;
   }
 }
 
-#Mahdood-features {
+#adnan-features {
   padding: 4em 0;
 }
-#Mahdood-features .feature-left {
+#adnan-features .feature-left {
   margin-bottom: 0;
 }
 @media screen and (max-width: 992px) {
-  #Mahdood-features .feature-left {
+  #adnan-features .feature-left {
     margin-bottom: 30px;
   }
 }
-#Mahdood-features .feature-left .icon i {
+#adnan-features .feature-left .icon i {
   color: #d9d9d9 !important;
 }
-#Mahdood-features .feature-left .icon {
+#adnan-features .feature-left .icon {
   float: left;
   text-align: center;
   width: 15%;
 }
 @media screen and (max-width: 992px) {
-  #Mahdood-features .feature-left .icon {
+  #adnan-features .feature-left .icon {
     width: 10%;
   }
 }
 @media screen and (max-width: 768px) {
-  #Mahdood-features .feature-left .icon {
+  #adnan-features .feature-left .icon {
     width: 15%;
   }
 }
-#Mahdood-features .feature-left .feature-copy {
+#adnan-features .feature-left .feature-copy {
   float: right;
   width: 80%;
 }
 @media screen and (max-width: 992px) {
-  #Mahdood-features .feature-left .feature-copy {
+  #adnan-features .feature-left .feature-copy {
     width: 90%;
   }
 }
 @media screen and (max-width: 768px) {
-  #Mahdood-features .feature-left .feature-copy {
+  #adnan-features .feature-left .feature-copy {
     width: 85%;
   }
 }
 @media screen and (max-width: 480px) {
-  #Mahdood-features .feature-left .feature-copy {
+  #adnan-features .feature-left .feature-copy {
     width: 80%;
   }
 }
-#Mahdood-features .feature-left h3 {
+#adnan-features .feature-left h3 {
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 700;
 }
-#Mahdood-features .feature-left p {
+#adnan-features .feature-left p {
   font-size: 15px;
 }
-#Mahdood-features .feature-left p:last-child {
+#adnan-features .feature-left p:last-child {
   margin-bottom: 0;
 }
 
-#Mahdood-feature-product {
+#adnan-feature-product {
   padding: 7em 0;
 }
 
-#Mahdood-services, #Mahdood-about, #Mahdood-contact {
+#adnan-services, #adnan-about, #adnan-contact {
   padding: 7em 0;
 }
 @media screen and (max-width: 768px) {
-  #Mahdood-services, #Mahdood-about, #Mahdood-contact {
+  #adnan-services, #adnan-about, #adnan-contact {
     padding: 4em 0;
   }
 }
 
-#Mahdood-services .Mahdood-number {
+#adnan-services .adnan-number {
   font-size: 30px;
   color: #5350ff;
   position: relative;
@@ -897,7 +897,7 @@ color: #ff5050 !important;
   zoom: 1;
   *display: inline;
 }
-#Mahdood-services .Mahdood-number:before {
+#adnan-services .adnan-number:before {
   position: absolute;
   content: "";
   width: 100%;
@@ -906,7 +906,7 @@ color: #ff5050 !important;
   left: 0;
   background: #5350ff;
 }
-#Mahdood-services .Mahdood-icon {
+#adnan-services .adnan-icon {
   margin-bottom: 30px;
   margin-top: 50px;
   position: relative;
@@ -916,43 +916,43 @@ color: #ff5050 !important;
   *display: inline;
 }
 @media screen and (max-width: 768px) {
-  #Mahdood-services .Mahdood-icon {
+  #adnan-services .adnan-icon {
     margin-top: 0px;
     float: none;
   }
 }
-#Mahdood-services .Mahdood-icon i {
+#adnan-services .adnan-icon i {
   font-size: 200px;
   color: #5350ff;
 }
 @media screen and (max-width: 768px) {
-  #Mahdood-services .Mahdood-icon i {
+  #adnan-services .adnan-icon i {
     font-size: 100px;
   }
 }
 
-#Mahdood-contact .contact-info {
+#adnan-contact .contact-info {
   margin: 0;
   padding: 0;
 }
-#Mahdood-contact .contact-info li {
+#adnan-contact .contact-info li {
   list-style: none;
   margin: 0 0 20px 0;
   position: relative;
   padding-left: 40px;
 }
-#Mahdood-contact .contact-info li i {
+#adnan-contact .contact-info li i {
   position: absolute;
   top: .3em;
   left: 0;
   font-size: 22px;
   color: rgba(0, 0, 0, 0.3);
 }
-#Mahdood-contact .contact-info li a {
+#adnan-contact .contact-info li a {
   font-weight: 400 !important;
   color: rgba(0, 0, 0, 0.3);
 }
-#Mahdood-contact .form-control {
+#adnan-contact .form-control {
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   -ms-box-shadow: none;
@@ -967,43 +967,43 @@ color: #ff5050 !important;
   -ms-border-radius: 0px;
   border-radius: 0px;
 }
-#Mahdood-contact .form-control:focus, #Mahdood-contact .form-control:active {
+#adnan-contact .form-control:focus, #adnan-contact .form-control:active {
   border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 }
-#Mahdood-contact input[type="text"] {
+#adnan-contact input[type="text"] {
   height: 50px;
 }
-#Mahdood-contact .form-group {
+#adnan-contact .form-group {
   margin-bottom: 30px;
 }
 
-.Mahdood-testimonial, .Mahdood-team {
+.adnan-testimonial, .adnan-team {
   position: relative;
   background: #fff;
   padding: 4em 0;
   border-radius: 5px;
 }
 @media screen and (max-width: 768px) {
-  .Mahdood-testimonial, .Mahdood-team {
+  .adnan-testimonial, .adnan-team {
     border-right: 0;
     margin-bottom: 80px;
   }
 }
-.Mahdood-testimonial h2, .Mahdood-team h2 {
+.adnan-testimonial h2, .adnan-team h2 {
   font-size: 16px;
   letter-spacing: 2px;
   text-transform: uppercase;
   font-weight: bold;
   margin-bottom: 50px;
 }
-.Mahdood-testimonial figure, .Mahdood-team figure {
+.adnan-testimonial figure, .adnan-team figure {
   position: absolute;
   top: -50px;
   left: 50%;
   margin-left: -65px;
   background-size: cover;
 }
-.Mahdood-testimonial figure img, .Mahdood-team figure img {
+.adnan-testimonial figure img, .adnan-team figure img {
   width: 130px;
   height: 130px;
   border: 10px solid #fff;
@@ -1013,49 +1013,49 @@ color: #ff5050 !important;
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
-.Mahdood-testimonial > div, .Mahdood-team > div {
+.adnan-testimonial > div, .adnan-team > div {
   padding: 30px 30px 0 30px;
 }
-.Mahdood-testimonial > div h3, .Mahdood-team > div h3 {
+.adnan-testimonial > div h3, .adnan-team > div h3 {
   margin-bottom: 0;
   font-size: 20px;
   color: #5350ff;
 }
-.Mahdood-testimonial > div .position, .Mahdood-team > div .position {
+.adnan-testimonial > div .position, .adnan-team > div .position {
   color: #d9d9d9;
   margin-bottom: 30px;
 }
-.Mahdood-testimonial > div,
-.Mahdood-testimonial blockquote, .Mahdood-team > div,
-.Mahdood-team blockquote {
+.adnan-testimonial > div,
+.adnan-testimonial blockquote, .adnan-team > div,
+.adnan-team blockquote {
   border: none;
   margin-bottom: 20px;
   padding-top: 30px;
 }
-.Mahdood-testimonial > div p,
-.Mahdood-testimonial blockquote p, .Mahdood-team > div p,
-.Mahdood-team blockquote p {
+.adnan-testimonial > div p,
+.adnan-testimonial blockquote p, .adnan-team > div p,
+.adnan-team blockquote p {
   font-size: 18px;
   line-height: 1.6em;
   color: #555555;
 }
-.Mahdood-testimonial span, .Mahdood-team span {
+.adnan-testimonial span, .adnan-team span {
   font-style: italic;
   color: #b3b3b3;
 }
 
-.Mahdood-blog {
+.adnan-blog {
   margin-bottom: 60px;
 }
-.Mahdood-blog a img {
+.adnan-blog a img {
   width: 100%;
 }
 @media screen and (max-width: 768px) {
-  .Mahdood-blog {
+  .adnan-blog {
     width: 100%;
   }
 }
-.Mahdood-blog .blog-text {
+.adnan-blog .blog-text {
   margin-bottom: 30px;
   position: relative;
   background: #fff;
@@ -1069,51 +1069,51 @@ color: #ff5050 !important;
   -moz-box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.18);
   box-shadow: 0px 10px 20px -12px rgba(0, 0, 0, 0.18);
 }
-.Mahdood-blog .blog-text span {
+.adnan-blog .blog-text span {
   display: inline-block;
   margin-bottom: 20px;
 }
-.Mahdood-blog .blog-text span.posted_by {
+.adnan-blog .blog-text span.posted_by {
   font-style: italic;
   color: rgba(0, 0, 0, 0.3);
   font-size: 18px;
 }
-.Mahdood-blog .blog-text span.comment {
+.adnan-blog .blog-text span.comment {
   float: right;
 }
-.Mahdood-blog .blog-text span.comment a {
+.adnan-blog .blog-text span.comment a {
   color: rgba(0, 0, 0, 0.3);
 }
-.Mahdood-blog .blog-text span.comment a i {
+.adnan-blog .blog-text span.comment a i {
   color: #ff5050;
   padding-left: 7px;
 }
-.Mahdood-blog .blog-text h3 {
+.adnan-blog .blog-text h3 {
   font-size: 20px;
   margin-bottom: 20px;
   font-weight: 300;
   line-height: 1.5;
 }
-.Mahdood-blog .blog-text h3 a {
+.adnan-blog .blog-text h3 a {
   color: rgba(0, 0, 0, 0.6);
 }
 
-#Mahdood-start-project-section {
+#adnan-start-project-section {
   padding: 7em 0;
   background: #F64E8B;
 }
-#Mahdood-start-project-section h2 {
+#adnan-start-project-section h2 {
   color: white;
   font-size: 60px;
   text-transform: uppercase;
   font-weight: 300;
 }
 @media screen and (max-width: 768px) {
-  #Mahdood-start-project-section h2 {
+  #adnan-start-project-section h2 {
     font-size: 30px;
   }
 }
-#Mahdood-start-project-section a:hover, #Mahdood-start-project-section a:focus, #Mahdood-start-project-section a:active {
+#adnan-start-project-section a:hover, #adnan-start-project-section a:focus, #adnan-start-project-section a:active {
   color: white !important;
 }
 
@@ -1128,14 +1128,14 @@ color: #ff5050 !important;
   }
 }
 
-.Mahdood-social-icons > a {
+.adnan-social-icons > a {
   padding: 4px 10px;
   color: #50dcff;
 }
-.Mahdood-social-icons > a i {
+.adnan-social-icons > a i {
   font-size: 26px;
 }
-.Mahdood-social-icons > a:hover, .Mahdood-social-icons > a:focus, .Mahdood-social-icons > a:active {
+.adnan-social-icons > a:hover, .adnan-social-icons > a:focus, .adnan-social-icons > a:active {
   text-decoration: none;
   color: #5a5a5a;
 }
@@ -1192,25 +1192,25 @@ color: #ff5050 !important;
   opacity: 0;
 }
 
-#Mahdood-wrapper {
+#adnan-wrapper {
   overflow-x: hidden;
   position: relative;
 }
 
-.Mahdood-offcanvas {
+.adnan-offcanvas {
   overflow: hidden;
 }
-.Mahdood-offcanvas #Mahdood-wrapper {
+.adnan-offcanvas #adnan-wrapper {
   overflow: hidden !important;
 }
 
-#Mahdood-page {
+#adnan-page {
   position: relative;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
-.Mahdood-offcanvas #Mahdood-page {
+.adnan-offcanvas #adnan-page {
   -moz-transform: translateX(-240px);
   -webkit-transform: translateX(-240px);
   -ms-transform: translateX(-240px);
@@ -1219,7 +1219,7 @@ color: #ff5050 !important;
 }
 
 @media screen and (max-width: 768px) {
-  #Mahdood-menu-wrap {
+  #adnan-menu-wrap {
     display: none;
   }
 }
@@ -1257,32 +1257,32 @@ color: #ff5050 !important;
 #offcanvas-menu ul li a:hover {
   color: #5350ff;
 }
-#offcanvas-menu ul li > .Mahdood-sub-menu {
+#offcanvas-menu ul li > .adnan-sub-menu {
   margin-top: 9px;
   padding-left: 20px;
 }
 #offcanvas-menu ul li.active > a {
   color: #ff5050;
 }
-#offcanvas-menu ul .Mahdood-sub-menu {
+#offcanvas-menu ul .adnan-sub-menu {
   display: block !important;
 }
 
-.Mahdood-nav-toggle {
+.adnan-nav-toggle {
   cursor: pointer;
   text-decoration: none;
 }
-.Mahdood-nav-toggle.active i::before, .Mahdood-nav-toggle.active i::after {
+.adnan-nav-toggle.active i::before, .adnan-nav-toggle.active i::after {
   background: #fff;
 }
-.Mahdood-nav-toggle.dark.active i::before, .Mahdood-nav-toggle.dark.active i::after {
+.adnan-nav-toggle.dark.active i::before, .adnan-nav-toggle.dark.active i::after {
   background: #fff;
 }
-.Mahdood-nav-toggle:hover, .Mahdood-nav-toggle:focus, .Mahdood-nav-toggle:active {
+.adnan-nav-toggle:hover, .adnan-nav-toggle:focus, .adnan-nav-toggle:active {
   outline: none;
   border-bottom: none !important;
 }
-.Mahdood-nav-toggle i {
+.adnan-nav-toggle i {
   position: relative;
   display: -moz-inline-stack;
   display: inline-block;
@@ -1297,7 +1297,7 @@ color: #ff5050 !important;
   background: #fff;
   transition: all .2s ease-out;
 }
-.Mahdood-nav-toggle i::before, .Mahdood-nav-toggle i::after {
+.adnan-nav-toggle i::before, .adnan-nav-toggle i::after {
   content: '';
   width: 30px;
   height: 2px;
@@ -1308,40 +1308,40 @@ color: #ff5050 !important;
   -o-transition: 0.2s;
   transition: 0.2s;
 }
-.Mahdood-nav-toggle.dark i {
+.adnan-nav-toggle.dark i {
   position: relative;
   color: #000;
   background: #000;
   transition: all .2s ease-out;
 }
-.Mahdood-nav-toggle.dark i::before, .Mahdood-nav-toggle.dark i::after {
+.adnan-nav-toggle.dark i::before, .adnan-nav-toggle.dark i::after {
   background: #000;
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
 }
 
-.Mahdood-nav-toggle i::before {
+.adnan-nav-toggle i::before {
   top: -7px;
 }
 
-.Mahdood-nav-toggle i::after {
+.adnan-nav-toggle i::after {
   bottom: -7px;
 }
 
-.Mahdood-nav-toggle:hover i::before {
+.adnan-nav-toggle:hover i::before {
   top: -10px;
 }
 
-.Mahdood-nav-toggle:hover i::after {
+.adnan-nav-toggle:hover i::after {
   bottom: -10px;
 }
 
-.Mahdood-nav-toggle.active i {
+.adnan-nav-toggle.active i {
   background: transparent;
 }
 
-.Mahdood-nav-toggle.active i::before {
+.adnan-nav-toggle.active i::before {
   top: 0;
   -webkit-transform: rotateZ(45deg);
   -moz-transform: rotateZ(45deg);
@@ -1350,7 +1350,7 @@ color: #ff5050 !important;
   transform: rotateZ(45deg);
 }
 
-.Mahdood-nav-toggle.active i::after {
+.adnan-nav-toggle.active i::after {
   bottom: 0;
   -webkit-transform: rotateZ(-45deg);
   -moz-transform: rotateZ(-45deg);
@@ -1359,7 +1359,7 @@ color: #ff5050 !important;
   transform: rotateZ(-45deg);
 }
 
-.Mahdood-nav-toggle {
+.adnan-nav-toggle {
   position: absolute;
   top: 0px;
   right: 0px;
@@ -1370,7 +1370,7 @@ color: #ff5050 !important;
   cursor: pointer;
 }
 @media screen and (max-width: 768px) {
-  .Mahdood-nav-toggle {
+  .adnan-nav-toggle {
     display: block;
     top: 0px;
     margin-top: 2em;
@@ -1457,7 +1457,7 @@ color: #ff5050 !important;
   top: 0;
 }
 
-.Mahdood-loader {
+.adnan-loader {
   position: fixed;
   left: 0px;
   top: 0px;
