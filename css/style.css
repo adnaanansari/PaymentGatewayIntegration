@@ -60,12 +60,12 @@ figure {
 
 ::-moz-selection {
   color: #fcfcfc;
-  background: #ff5050;
+  background: #2A3D1A;
 }
 
 ::selection {
   color: #fcfcfc;
-  background: #ff5050;
+  background: #2A3D1A;
 }
 
 #adnan-header {
@@ -86,7 +86,7 @@ position: relative;
 
 .header-top {
   padding: 10px 0;
-  background: #ff5050;
+  background: #2A3D1A;
 }
 .header-top .adnan-link a {
 margin-left: 10px;
@@ -274,11 +274,11 @@ padding-bottom: 2px;
   border-bottom: none !important;
 }
 .sf-menu a:hover, .sf-menu a:focus {
-  color: #ff5050 !important;
+  color: #2A3D1A !important;
 }
 
 .sf-menu li.active a:hover, .sf-menu li.active a:focus {
-  color: #ff5050;
+  color: #2A3D1A;
 }
 
 .sf-menu li,
@@ -302,7 +302,7 @@ padding-bottom: 2px;
 .sf-menu ul li:hover a,
 .sf-menu ul li.sfHover a,
 .sf-menu li.active a {
-  color: #ff5050;
+  color: #2A3D1A;
 }
 
 .sf-menu ul li:hover,
@@ -385,10 +385,10 @@ font-weight: 700;
   }
 }
 #adnan-logo a {
-color: #ff5050;
+color: #2A3D1A;
 }
 #adnan-logo a:hover, #fh5co-logo a:focus {
-color: #ff5050 !important;
+color: #2A3D1A !important;
 }
 
 #adnan-menu-wrap {
@@ -403,7 +403,7 @@ padding: 1em .75em;
 }
 
 #adnan-primary-menu > li > ul li.active > a {
-color: #ff5050 !important;
+color: #2A3D1A !important;
 }
 #adnan-primary-menu > li > .sf-with-ul:after {
 border: none !important;
@@ -523,7 +523,7 @@ letter-spacing: 0;
   background: none;
 }
 #adnan-primary-menu .adnan-sub-menu a:hover {
-color: #ff5050 !important;
+color: #2A3D1A !important;
 }
 
 #adnan-work-section,
@@ -561,7 +561,7 @@ color: #ff5050 !important;
   width: 100px;
   margin-left: -50px;
   height: 2px;
-  background: #ff5050;
+  background: #2A3D1A;
 }
 .heading-section h3 {
   font-size: 40px;
@@ -582,7 +582,7 @@ color: #ff5050 !important;
 }
 .feature-text h3 .number {
   margin-right: 5px;
-  color: #ff5050;
+  color: #2A3D1A;
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
@@ -593,7 +593,7 @@ color: #ff5050 !important;
 }
 
 .services {
-  background: #ff5050;
+  background: #2A3D1A;
   background: #fff;
   padding: 40px 20px 20px 20px;
   margin-bottom: 30px;
@@ -614,12 +614,12 @@ color: #ff5050 !important;
 }
 .services span i {
   font-size: 40px;
-  color: #ff5050 !important;
+  color: #2A3D1A !important;
 }
 .services h3 {
   font-size: 20px;
   font-weight: 400;
-  color: #ff5050;
+  color: #2A3D1A;
 }
 .services p {
   font-size: 16px;
@@ -651,7 +651,7 @@ color: #ff5050 !important;
   display: table-cell;
   vertical-align: middle;
   font-size: 40px;
-  color: #ff5050;
+  color: #2A3D1A;
 }
 .feature-left .feature-copy {
   float: right;
@@ -1085,7 +1085,7 @@ color: #ff5050 !important;
   color: rgba(0, 0, 0, 0.3);
 }
 .adnan-blog .blog-text span.comment a i {
-  color: #ff5050;
+  color: #2A3D1A;
   padding-left: 7px;
 }
 .adnan-blog .blog-text h3 {
@@ -1169,14 +1169,14 @@ color: #ff5050 !important;
   transition: 0.3s;
 }
 .btn.btn-primary {
-  background: #ff5050;
+  background: #2A3D1A;
   color: #fff;
   border: none !important;
   border: 2px solid transparent !important;
 }
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   box-shadow: none;
-  background: #ff5050;
+  background: #2A3D1A;
   color: #fff !important;
 }
 .btn:hover, .btn:active, .btn:focus {
@@ -1262,7 +1262,7 @@ color: #ff5050 !important;
   padding-left: 20px;
 }
 #offcanvas-menu ul li.active > a {
-  color: #ff5050;
+  color: #2A3D1A;
 }
 #offcanvas-menu ul .adnan-sub-menu {
   display: block !important;
